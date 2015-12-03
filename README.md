@@ -10,5 +10,7 @@ If time permitts, I will try to maintain this project. This code is free and ope
 The whole purpose of this code is to emulate WinDirStat on multiple platforms, in its current state it works on Windows, OSX, Linux and any other Operating System that supports Java v1.8.
 
 Outside sources used on this project:
+
 Apache Commons IO:            https://commons.apache.org/proper/commons-io/
+
 Jan Engehausen's TreeMapLib:  https://github.com/smurf667/treemaplib
