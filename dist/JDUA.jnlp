@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JDUA.jnlp">
+  <information>
+    <title>JDUA</title>
+    <vendor>Luis</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="8.0+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JDUA.jar" size="398302" download="eager" />
+    <jar href="lib/commons-io-2.4.jar" size="185140" download="eager" />
+    <jar href="lib/tm_core_1.0.0.jar" size="52673" download="eager" />
+    <jar href="lib/tm_core_examples_1.0.0.jar" size="9612" download="eager" />
+    <jar href="lib/tm_swing_1.0.0.jar" size="23435" download="eager" />
+    <jar href="lib/tm_swing_examples_1.0.0.jar" size="26454" download="eager" />
+    <jar href="lib/tm_swt_1.0.0.jar" size="39642" download="eager" />
+    <jar href="lib/tm_swt_examples_1.0.0.jar" size="24984" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="JDUA" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="jduagui.Main"  name="JDUA" />
+  <update check="always"/>
+</jnlp>
