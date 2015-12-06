@@ -1,10 +1,6 @@
 # JDUA
 JavaFX Disk Usage Analyzer
 
-![Ubuntu Screenshot](http://i.imgur.com/5pHgBop.png)
-
-![Windows Screenshot](http://i.imgur.com/UG0Zjnk.png)
-
 This is the Initial release of the JDUA. It is a semester project for CEN4020: Software Engineering 1, under the group Renegade Hackers.
 
 The 3 people involved in Renegade Hackers are Ronald Ramos, Emerson Small and myself. Ronald attempted to write his own code to fufill the functional requirements we set out for this project but due to time constraints I had to override his code and implement outside patterns and rimplement an outside library in order to meet deadlines; so 100% of the present code is written, tested and maintained by myself.
@@ -18,3 +14,13 @@ Outside sources used on this project:
 Apache Commons IO:            https://commons.apache.org/proper/commons-io/
 
 Jan Engehausen's TreeMapLib:  https://github.com/smurf667/treemaplib
+
+
+Screenshots of software:
+
+![Ubuntu Screenshot](http://i.imgur.com/5pHgBop.png)
+
+![Windows Screenshot](http://i.imgur.com/UG0Zjnk.png)
+
+
+
