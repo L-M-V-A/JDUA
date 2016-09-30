@@ -20,7 +20,5 @@ Screenshots of software:
 
 ![Ubuntu Screenshot](http://i.imgur.com/5pHgBop.png)
 
-![Windows Screenshot](http://i.imgur.com/UG0Zjnk.png)
-
 
 
